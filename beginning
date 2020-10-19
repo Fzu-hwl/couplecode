@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type"
+       content="text/html; charset=utf-8"/>
+	<title>华容道开始界面</title>
+</head>
+<body>
+<p>请点击图片链接进入游戏界面
+	<a href="华容道2.html">
+	<img border="0" src="./A.jpg"  width="200" height="200">
+</a></p>
+
+</body>
+</html>
